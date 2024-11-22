@@ -754,4 +754,12 @@ video {
   }
 }
 
-@media (min
+@media (min-width: 1024px) {
+  .lg\:w-7\/12 {
+    width: 58.333333%;
+  }
+
+  .lg\:pt-8 {
+    padding-top: 2rem;
+  }
+}
