@@ -22,7 +22,7 @@ module.exports = {
         '89': '89%',
         '99': '365px',
         '725': '725px',
-        '645': '645px',
+        '629': '629px',
       },
       height: {
         'custom-height': '1080px',
