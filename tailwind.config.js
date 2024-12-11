@@ -26,7 +26,7 @@ module.exports = {
       },
       height: {
         'custom-height': '1080px',
-        '1660': '1660px', 
+        '1700': '1700px', 
         '2043': '2043px',
       },
     },
